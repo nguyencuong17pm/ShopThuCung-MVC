@@ -1,0 +1,44 @@
+INSERT INTO `baiviet`(`tieude`, `tomtat`, `noidung`, `hinhanh`, `tacgia`, `created_at`, `updated_at`, `views`, `trangthai`, `danhmuc_id`, `user_id`) VALUES (
+    'MỘT GÓC NHÌN VỀ LẠM PHÁT',
+    'Câu chuyện về lạm phát luôn luôn là chủ đề được đem ra bàn tán. Có sự đồng thuận về quan điểm nhưng cũng có không ít những bất đồng xoay quanh cách hiểu lạm phát và cách điều hành chính sách tiền tệ.',
+    'Để hiểu rõ hiện tượng lạm phát cũng như các hiện tượng tài chính - tiền tệ trong các nền kinh tế, tôi cho rằng trước hết chúng ta cần phải hiểu được bản chất của tiền tệ và các chức năng của nó. Không phải ngẫu nhiên mà nội dung Tiền tệ thường được các sách Kinh tế học (kể cả Kinh tế Chính trị học, Tài chính - Tiền tệ) bàn đến đầu tiên. Trong giới hạn bài viết này tôi không trình bày lại thế nào là bản chất và nội dung các chức năng của tiền tệ, tôi cũng không có ý định cũng như tham vọng đưa ra một định nghĩa chính thống nhất về lạm phát trên quan điểm của bản thân. Tôi chỉ muốn chia sẻ một suy nghĩ nhỏ của mình về vấn đề nhìn nhận lạm phát, với hi vọng nhận được sự chỉ bảo, góp ý của các nhà nghiên cứu dày dặn kinh nghiệm.',
+    'https://www.saga.vn/uploads/%E1%BA%A3nh%20b%C3%A0i%20vi%E1%BA%BFt%20790x399/inflation.jpg',
+    'Võ Thanh Nam',
+    NOW(),
+    NOW(),
+   	50,
+    1,
+    1,
+    1)
+	
+INSERT INTO `baiviet`(`tieude`, `tomtat`, `noidung`, `hinhanh`, `tacgia`, `created_at`, `updated_at`, `views`, `trangthai`, `danhmuc_id`, `user_id`) VALUES (
+    'Cổ phiếu cần quan tâm ngày 23/11',
+    '(ĐTCK) Báo Đầu tư Chứng khoán trích báo cáo phân tích một số cổ phiếu cần quan tâm trước phiên 23/11 của các công ty chứng khoán.',
+    'Kết quả kinh doanh 9 tháng năm 2018 của CTCP Thế giới di động (mã MWG) duy trì mức tăng trưởng 2 con số với sự đóng góp chủ yếu tiếp tục đến từ Điện Máy Xanh, tăng trưởng doanh thu cửa hàng cũ (SSSG) của chuỗi Thế giới di động và Điện máy xanh đạt 12% cao hơn mức 10% trong 6 tháng năm 2018.',
+    'https://image.tinnhanhchungkhoan.vn/w660/Uploaded/2018/cqjwqcqdh/2018_11_22/sieu-thi-01_nyzi.jpg',
+    'Võ Thanh Nam',
+    NOW(),
+    NOW(),
+   	100,
+    1,
+    2,
+    1)
+	
+	INSERT INTO `baiviet`(`tieude`, `tomtat`, `noidung`, `hinhanh`, `tacgia`, `created_at`, `updated_at`, `views`, `trangthai`, `danhmuc_id`, `user_id`) VALUES (
+    'Bí ẩn những hành tinh hình đầu lâu có thể gây họa cho Trái đất',
+    'Thế giới vũ trụ rộng lớn chứa đựng nhiều điều bí ẩn, có nhiều sự thật khiến chúng ta cảm thấy ngạc nhiên như các hành tinh, tinh vân mang diện mạo "đầu lâu"',
+    'Tinh vân Sh2-68
+
+Tiến sĩ Travis A Rector thuộc Đại học Alaska Anchorage (Mỹ) là người đã bắt được hình ảnh một tinh vân giống hình chiếc đầu lâu khổng lồ với mái tóc rực lửa bay qua dải Ngân hà và lọt vào ống kính thiên văn 4m Mayall tại Đài Quan sát Thiên văn Quốc gia Kitt Peak, Arizona, Mỹ.
+
+Theo dự đoán của các nhà thiên văn học, tinh vân này khoảng 45.000 năm tuổi và đang đi qua dải Ngân hà. Sở dĩ tinh vân Sh2-68 có hình dạng thú vị nói trên là do cơn gió mạnh lên va chạm với các mảnh vỡ của ngôi sao (tinh vân Sh2-68 được hình thành khi một ngôi sao lớn hơn Mặt trời chết đi và giải phóng năng lượng).
+
+Hình ảnh giống như chiếc đầu lâu được tạo nên từ các nguyên tử oxy và điểm màu xanh đậm ở trung tâm là những ngôi sao. Còn hình ảnh giống như mái tóc rực lửa được tạo ra bởi chuyển động của tinh vân và khí hydro thổi ra từ ngôi sao.',
+    'http://sohanews.mediacdn.vn/thumb_w/640/2018/11/19/photo-1-1542595064103182612487-crop-1542595094977120557785.jpg',
+    'Võ Thanh Nam',
+    NOW(),
+    NOW(),
+   	100,
+    1,
+    3,
+    1)
